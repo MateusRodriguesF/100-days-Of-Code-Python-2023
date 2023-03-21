@@ -20,7 +20,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 13:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_13) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_14) Higher Lower Game Proj
 ## 📚 Intermediate
-- [Day 15:]Local Development Environment Setup & the Coffee Machine
+- [Day 15:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_15) Local Development Environment Setup & the Coffee Machine
 - [Day 16:]Object Oriented Programming (OOP)
 - [Day 17:]The Quiz Project & The Benefits of OOP
 - [Day 18:]Turtle & the Graphical User Interface (GUI)
