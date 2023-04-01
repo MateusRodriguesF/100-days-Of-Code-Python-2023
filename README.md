@@ -23,7 +23,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 15:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_15) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_16) Object Oriented Programming (OOP)
 - [Day 17:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_17) The Quiz Project & The Benefits of OOP
-- [Day 18:]Turtle & the Graphical User Interface (GUI)
+- [Day 18:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_18)Turtle & the Graphical User Interface (GUI)
 - [Day 19:]Instances, State and Higher Order Functions
 - [Day 20:]Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21:]Build the Snake Game Part 2: Inheritance & List Slicing
