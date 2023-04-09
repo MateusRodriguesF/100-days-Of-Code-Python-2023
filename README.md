@@ -27,7 +27,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 19:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_19)Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_20)Snake Game Part 1: Animation & Coordinates
 - [Day 21:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_21)Snake Game Part 2: Inheritance & List Slicing
-- [Day 22:]Build Pong: The Famous Arcade Game
+- [Day 22:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_22)Build Pong: The Famous Arcade Game
 - [Day 23:]The Turtle Crossing Capstone Project
 - [Day 24:]Files, Directories and Paths
 - [Day 25:]Working with CSV Data and the Pandas Library
