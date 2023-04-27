@@ -31,7 +31,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 23:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_23)The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_24)Files, Directories and Paths
 - [Day 25:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_25)Working with CSV Data and the Pandas Library
-- [Day 26:]List Comprehension and the Nato Alphabet
+- [Day 26:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_26)List Comprehension and the Nato Alphabet
 - [Day 27:]Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28:]Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29:]Building a Password Manager GUI App with Tkinter
