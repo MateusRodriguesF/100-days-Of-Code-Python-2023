@@ -36,7 +36,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 28:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_28)Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_29)Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_30)Errors, Exceptions and JSON Data: Improving the Password Manager
-- [Day 31:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_30)Flash Card App Capstone Project
+- [Day 31:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_31)Flash Card App Capstone Project
 
 ## 👨‍💻 Intermediate+
 - [Day 32:] Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
