@@ -40,7 +40,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 ## 👨‍💻 Intermediate+
 - [Day 32:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
-- [Day 33:] (https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_33)API Endpoints & API Parameters - ISS Overhead Notifier
+- [Day 33:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_33)API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34:] API Practice - Creating a GUI Quiz App
 - [Day 35:] Keys, Authentication & Environment Variables - Telegram Rain Notifier
 - [Day 36:] Stock Trading News Alert Project
