@@ -45,7 +45,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 35:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_35)Keys, Authentication & Environment Variables - Telegram Rain Notifier
 - [Day 36:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_36)Stock Trading News Alert Project
 - [Day 37:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_37)Habit Tracking Project: API Post Requests & Headers
-- [Day 38:] Workout Tracking Using Google Sheets
+- [Day 38:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_37)Workout Tracking Using Google Sheets
 - [Day 39:] Capstone Part 1: Flight Deal Finder
 - [Day 40:] Capstone Part 2: Flight Club
 - [Day 41:] Introduction to HTML
