@@ -1,0 +1,18 @@
+html {
+    font-size: xx-large;
+}
+footer {
+    font-size: x-large;
+}
+#px {
+    font-size: 20px;
+}
+#pt {
+    font-size: 18pt;
+}
+#em {
+    font-size: 1em ;
+}
+#rem {
+    font-size: 1rem;
+}
