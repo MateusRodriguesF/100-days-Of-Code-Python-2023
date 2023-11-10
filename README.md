@@ -46,26 +46,26 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 36:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_36)Stock Trading News Alert Project
 - [Day 37:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_37)Habit Tracking Project: API Post Requests & Headers
 - [Day 38:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_38)Workout Tracking Using Google Sheets
-- [Day 39:] Capstone Part 1: Flight Deal Finder
-- [Day 40:] Capstone Part 2: Flight Club
-- [Day 41:] Introduction to HTML
-- [Day 42:] Intermediate HTML
-- [Day 43:] Introduction to CSS
-- [Day 44:] Intermediate CSS
-- [Day 45:] Web Scraping with Beautiful Soup
-- [Day 46:] Create a Spotify Playlist Using The Musical Time Machine
-- [Day 47:] Create an Automated Amazon Price Tracker
-- [Day 48:] Selenium Webdriver Browser and Game Playing Bot
-- [Day 49:] Automating Job Applications on LinkedIn
-- [Day 50:] Auto Tinder Swiping Bot
-- [Day 51:] Internet Speed Twitter Complaint Bot
-- [Day 52:] Instagram Follower Bot
-- [Day 53:] Web Scraping Capstone - Data Entry Job Automation
-- [Day 54:] Introduction to Web Development with Flask
-- [Day 55:] HTML & URL Parsing in Flask and the Higher Lower Game
-- [Day 56:] Rendering HTML/Static Files and Using Website Templates
-- [Day 57:] Templating with Jinja in Flask Applications
-- [Day 58:] Web Foundation Boostrap
+- [Day 39:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_39)Capstone Part 1: Flight Deal Finder
+- [Day 40:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_40)Capstone Part 2: Flight Club
+- [Day 41:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_41)Introduction to HTML
+- [Day 42:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_42)Intermediate HTML
+- [Day 43:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_43)Introduction to CSS
+- [Day 44:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_44)Intermediate CSS
+- [Day 45:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_45)Web Scraping with Beautiful Soup
+- [Day 46:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_46)Create a Spotify Playlist Using The Musical Time Machine
+- [Day 47:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_47)Create an Automated Amazon Price Tracker
+- [Day 48:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_48)Selenium Webdriver Browser and Game Playing Bot
+- [Day 49:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_49)Automating Job Applications on LinkedIn
+- [Day 50:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_50)Auto Tinder Swiping Bot
+- [Day 51:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_51)Internet Speed Twitter Complaint Bot
+- [Day 52:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_52)Instagram Follower Bot
+- [Day 53:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_53)Web Scraping Capstone - Data Entry Job Automation
+- [Day 54:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_54)Introduction to Web Development with Flask
+- [Day 55:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_55)HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_56)Rendering HTML/Static Files and Using Website Templates
+- [Day 57:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_57)Templating with Jinja in Flask Applications
+- [Day 58:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_58)Web Foundation Boostrap
 
 ## 🏆 Advanced
 - [Day 59:] Blog Capstone Project Part 2 - Adding Styling
