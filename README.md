@@ -68,7 +68,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 58:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_58)Web Foundation Boostrap
 
 ## 🏆 Advanced
-- [Day 59:] Blog Capstone Project Part 2 - Adding Styling
+- [Day 59:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_59)Blog Capstone Project Part 2 - Adding Styling
 - [Day 60:] Make POST Requests with Flask and HTML Forms
 - [Day 61:] Building Advanced Forms with Flask-WTForms
 - [Day 62:] Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
