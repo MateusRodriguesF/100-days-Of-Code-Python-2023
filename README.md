@@ -69,11 +69,11 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 ## 🏆 Advanced
 - [Day 59:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_59)Blog Capstone Project Part 2 - Adding Styling
-- [Day 60:] Make POST Requests with Flask and HTML Forms
-- [Day 61:] Building Advanced Forms with Flask-WTForms
-- [Day 62:] Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
-- [Day 63:] Databases and with SQLite and SQLAlchemy
-- [Day 64:] My Top 10 Movies Website
+- [Day 60:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_60)Make POST Requests with Flask and HTML Forms
+- [Day 61:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_61)Building Advanced Forms with Flask-WTForms
+- [Day 62:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_62)Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
+- [Day 63:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_63)Databases and with SQLite and SQLAlchemy
+- [Day 64:](https://github.com/MateusRodriguesF/100-days-Of-Code-Python-2023/tree/main/Curso-%20Python-Udemy/Day_64)My Top 10 Movies Website
 - [Day 65:] How to Create a Website That People Will Love
 - [Day 66:] Building Your Own API with RESTful Routing
 - [Day 67:] Blog Capstone Project Part 3 - RESTful Routing
